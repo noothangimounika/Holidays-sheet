@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    margin-top: 30px;
+   
+}
+.main-div h1{
+  
+    font-weight: bold;
+    margin-left: 20px;
+}
+p{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 800px;
+
+}
+.main-div .text button{
+  
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 30px;
+    transition: all 0.5s ease;
+   
+}
+
+.main-div .text button:hover{
+    background-color: red;
+    color:white;
+    
+}
+
+.text{
+   display: flex;
+   justify-content: space-between;
+   margin-left: 10px;
+}
+.drop-down{
+    padding: 20px;
+    display: flex;
+    margin-left: 2px;
+    
+}
+.drop-down p{
+    margin-top: -10px;
+   
+}
+select{
+    width: 20px;
+    height: 20px;
+}
+/*.text {
+    text-align: center;
+    
+}
+.text .t1 {
+    width: 300px;
+    height: 30px;
+    border: 2px black solid;
+    margin: 10px;
+    
+}
+.text .t1  ion-icon{
+    margin-left: 150px; 
+    
+}
+.text .t2 {
+    width: 300px;
+    height: 30px;
+    border: 2px black solid;
+    margin: 10px;
+}
+.text .t2  ion-icon{
+   margin-left: 150px;
+    
+}
+.text .t3 {
+    width: 300px;
+    height: 30px;
+    border: 2px black solid;
+    margin: 10px;
+}
+.text .t3  ion-icon{
+    margin-left: 100px; 
+    
+}
+.text .t4 {
+    width: 300px;
+    height: 30px;
+    border: 2px black solid;
+    margin: 10px;
+}
+.text .t4  ion-icon{
+    margin-left: 150px;
+    
+}
+.text .t5 {
+    width: 300px;
+    height: 30px;
+    border: 2px black solid;
+    margin: 10px;
+}
+.text .t5  ion-icon{
+    margin-left: 150px;
+    
+}*/
+
+.below-text .p1{
+    text-align: center;
+    font-weight: 700px;
+    margin-top: 100px;
+    
+   
+}
+.below-text2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+.below-text2 p{
+  
+    text-align: left;
+}
+.below-text2 .btn {
+   margin-left: 1000px;
+}
+.below-text2 button{
+    width: 100px;
+    height: 30px;
+    
+}
+.text-boxes ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 30px;
+}
+.text-boxes ul li{
+    width: 250px;
+    height: 30px;
+    border: 2px black solid;
+    padding-left: 5px;
+    padding-top: 10px ;
+    font-weight: 700px;
+    
+}
+.add-history  {
+   margin-top: 50px;
+
+}
+.add-history  input{
+   margin: 20px;
+   padding: 10px;
+  
+}
+.add-history button{
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+    font-size: 20px;
+    transition: all 0.5s ease;
+    border: none;
+}
+.add-history button:hover{
+    background-color: skyblue;
+    border: 2px black solid;
+    
+   
+}
